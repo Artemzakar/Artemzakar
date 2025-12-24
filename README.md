@@ -50,7 +50,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Artemzakar&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Artemzakar&show_icons=true&theme=radical&cache_seconds=1800)
 
 ---
 
