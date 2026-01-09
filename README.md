@@ -51,9 +51,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🧩 LeetCode Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Artemzakar&show_icons=true&theme=radical)](https://github.com/Artemzakar)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Artem_zak?theme=dark&ext=activity)](https://leetcode.com/Artem_zak)
 
 ---
 
